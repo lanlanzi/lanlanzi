@@ -1,0 +1,2 @@
+# lanlanzi
+my study note
